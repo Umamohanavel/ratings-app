@@ -1,0 +1,23 @@
+*{
+  background-image: radial-gradient(circle, rgb(113, 55, 250), white);
+}
+.App{
+  text-align: center;
+  font-size: 32px;
+  margin-top: 10%;
+  
+}
+.ratings{
+    font-family: sans-serif;
+    text-align:center;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+  }
+  .App> div{
+    margin-left: 10px;
+  }
+  .bg{
+    color: red;
+  }
